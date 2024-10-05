@@ -3,3 +3,8 @@ $color-circle-gradient: dark-light-choose(#a86b00, #cc9600);
 :root {
   --color-circle-gradient: #{$color-circle-gradient};
 }
+$color-square-gradient: dark-light-choose(#a86b00, #cc9600);
+
+:root {
+  --color-square-gradient: #{$color-square-gradient};
+}
