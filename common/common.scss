@@ -344,7 +344,8 @@ a:hover {
   background: linear-gradient(
     52deg,
     var(--tertiary-high) 10%,
-    var(--tertiary) 60%
+    var(--tertiary) 60%,
+    opacity: 0.3,
   );
 }
 
