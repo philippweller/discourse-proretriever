@@ -17,16 +17,7 @@ body:not(.navigation-categories):not(.navigation-topics) #main-outlet {
 }
 
 #main-outlet:after {
-  content: "";
-  display: block;
-  position: fixed;
-  z-index: -1;
-  width: 500px;
-  height: 500px;
-  border-radius: 2000px;
-  background: var(--color-circle-gradient);
-  right: 1px;
-  top: -57px;
+    background: none;
 }
 
 #main-outlet:before{
